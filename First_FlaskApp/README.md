@@ -1,4 +1,4 @@
- # Basic Flask app
+# Basic Flask app
 ### About
 This is the most basic level of a flask app, It contains:
 1. app.py - The Flask application.
